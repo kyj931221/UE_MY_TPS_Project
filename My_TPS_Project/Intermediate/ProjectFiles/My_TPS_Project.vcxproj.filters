@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\My_TPS_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\My_TPS_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\My_TPS_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\My_TPS_Project">
+      <UniqueIdentifier>{772F9AEA-86A8-3A14-80DA-2EC3DD416559}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\My_TPS_Project\My_TPS_Project.Build.cs">
+      <Filter>Source\My_TPS_Project</Filter>
+    </None>
+    <Filter Include="Source\My_TPS_Project\private">
+      <UniqueIdentifier>{360EEEFB-E447-365D-A3C1-B645A1D74DAB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\My_TPS_Project\private\My_TPS_Project.cpp">
+      <Filter>Source\My_TPS_Project\private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\My_TPS_Project\private\TPSProjectGameModeBase.cpp">
+      <Filter>Source\My_TPS_Project\private</Filter>
+    </ClCompile>
+    <Filter Include="Source\My_TPS_Project\public">
+      <UniqueIdentifier>{21BAD1FF-899D-311B-B101-CD6856F3972C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\My_TPS_Project\public\My_TPS_Project.h">
+      <Filter>Source\My_TPS_Project\public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\My_TPS_Project\public\TPSProjectGameModeBase.h">
+      <Filter>Source\My_TPS_Project\public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
