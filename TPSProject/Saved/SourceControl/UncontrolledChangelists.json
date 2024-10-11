@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/UE_MY_TPS_Project/TPSProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GitHub/UE_MY_TPS_Project/TPSProject/Content/TPSMap.umap",
+				"D:/GitHub/UE_MY_TPS_Project/TPSProject/Content/Maps/TPSMap.umap",
+				"D:/GitHub/UE_MY_TPS_Project/TPSProject/Content/Blueprints/BP_TPSProjectGameModeBase.uasset",
+				"D:/GitHub/UE_MY_TPS_Project/TPSProject/Content/Blueprints/BP_TPSPlayer.uasset",
+				"D:/GitHub/UE_MY_TPS_Project/TPSProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

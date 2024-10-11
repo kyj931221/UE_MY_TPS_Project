@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TPSProject-7158.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\TPSProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\TPSPlayer.gen.cpp.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\TPSProject.init.gen.cpp.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\TPSProjectGameModeBase.gen.cpp.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\TPSPlayer.cpp.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\TPSProject.cpp.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\TPSProjectGameModeBase.cpp.obj"
+"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\Default.rc2.res"
+/OUT:"D:\GitHub\UE_MY_TPS_Project\TPSProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPSProject\UnrealEditor-TPSProject-7158.lib"
