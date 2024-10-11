@@ -73,9 +73,9 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-UE_MY_TPS_Project/My_TPS_Project/Binaries
-UE_MY_TPS_Project/My_TPS_Project/Intermediate
-UE_MY_TPS_Project/My_TPS_Project/Saved
-UE_MY_TPS_Project/My_TPS_Project/Content/Developers
-UE_MY_TPS_Project/My_TPS_Project/*.sln
-UE_MY_TPS_Project/My_TPS_Project/.vsconfig
+UE_MY_TPS_Project/TPSProject/Binaries
+UE_MY_TPS_Project/TPSProject/Intermediate
+UE_MY_TPS_Project/TPSProject/Saved
+UE_MY_TPS_Project/TPSProject/Content/Developers
+UE_MY_TPS_Project/TPSProject/*.sln
+UE_MY_TPS_Project/TPSProject/.vsconfig
