@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\GitHub\\UE_MY_TPS_Project\\TPSProject\\Source\\TPSProject\\TPSProject.Build.cs",
-		"D:\\GitHub\\UE_MY_TPS_Project\\TPSProject\\Source\\TPSProject.Target.cs",
-		"D:\\GitHub\\UE_MY_TPS_Project\\TPSProject\\Source\\TPSProjectEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
